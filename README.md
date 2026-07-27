@@ -24,17 +24,17 @@ DENDROBOT is a Python desktop application developed to perform Hierarchical Aggl
 
 ## Preview
 
-### Main Page
+### Start Page
 
-![Main Page](Halaman%20Pertama.png)
+![Start Page](Page%20Start.png)
 
-### Clustering Result
+### Main Menu
 
-![Clustering Result](Halaman%20Kedua.png)
+![Main Menu](Page%20Menu.png)
 
-### Dendrogram
+### Data Input
 
-![Dendrogram](Halaman%20Ketiga.png)
+![Data Input](Page%20Input.png)
 
 ## Notes
 
